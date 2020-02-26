@@ -1,0 +1,36 @@
+body{
+  font-family: cursive;
+  color:white;
+  background-color: black;
+}
+a{
+    font-family:sans-serif;
+    color:powderblue;
+    margin:5%;
+    text-align:center;
+}
+
+h1{
+  font-family: fantasy;
+text-align:center;
+    color:firebrick;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align: center;
+    
+}
+
+h4{
+    text-align:left;
+    
+}
+img{
+  margin:5%;
+    border-width: medium;
+    border-color:mediumblue;
+    border-style:groove;
+    width:70%
+}
