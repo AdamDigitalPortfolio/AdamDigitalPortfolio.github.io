@@ -1,5 +1,5 @@
 body{
-  font-family: cursive;
+  font-family: sans-serif;
   color:white;
   background-color: black;
 }
@@ -28,7 +28,7 @@ h4{
     
 }
 img{
-  margin:5%;
+    margin:5%;
     border-width: medium;
     border-color:mediumblue;
     border-style:groove;
