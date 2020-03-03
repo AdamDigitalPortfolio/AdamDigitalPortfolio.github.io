@@ -35,6 +35,8 @@ img{
     border-width: medium;
     border-color:mediumblue;
     border-style:groove;
+    width:50%;
+    height:50%;
 }
 
     h2{
